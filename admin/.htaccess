@@ -1,0 +1,3 @@
+RewriteEngine Off
+AuthUserFile "/home/affurls1/.htpasswds/public_html/admin/passwd"
+AuthName "admin"
